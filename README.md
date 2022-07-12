@@ -1,6 +1,5 @@
 # ClarksonGradeCalc
-Xavier Lora
-Semester Grade Calculator Project
+
 This Project is designed to give a user a system to calculate their GPA. The emphasis is on the 
 system itself and the user interaction. The user will be able to create their own account and login, 
 they will be able to add the name of their classes, the grade they earned, and the weight of the 
